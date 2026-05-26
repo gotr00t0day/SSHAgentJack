@@ -12,10 +12,6 @@
   "Y8888888888P"
 ```
 
-**Author:** c0d3Ninja
-**Website:** https://gotr00t0day.github.io
-**Instagram:** @gotr00t0day
-
 ---
 
 ## What is it?
