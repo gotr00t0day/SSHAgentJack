@@ -12,8 +12,6 @@
   "Y8888888888P"
 ```
 
----
-
 ## What is it?
 
 SSHAgentJack is a post exploitation tool that discovers and hijacks live SSH agent sockets on a compromised Linux system. It finds active `SSH_AUTH_SOCK` entries across all running processes, validates which ones have keys loaded, and surfaces them for immediate use — without touching disk, cracking passwords, or needing the private key files.
