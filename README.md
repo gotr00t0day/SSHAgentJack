@@ -51,7 +51,7 @@ Only returns sockets that respond with loaded keys. Sockets that are dead, belon
 ### Standalone build
 
 ```bash
-g++ sshagentjack.cpp ../modules/executils.cpp -o sshagentjack -std=c++20
+g++ sshagentjack.cpp -o sshagentjack -std=c++20
 ./sshagentjack
 ```
 
